@@ -1,0 +1,29 @@
+ .imag{
+    width: 90%;
+    margin: 0 AUTO;
+ }
+
+ section{
+     text-align: center;
+ }
+ .imag img{
+     width: 100%;
+
+ }
+
+ body section .button{
+    margin: 50px;
+ }
+
+ body section .button input{
+    background-color: black;
+    color: white;
+    border:none;
+    padding: 20px 30px;
+ }
+
+ body section h1{
+     font-size: 20pt;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     letter-spacing: 3px;
+ }
