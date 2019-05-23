@@ -6,6 +6,10 @@
  section{
      text-align: center;
  }
+
+ .imag image{
+     width: 100%;
+ }
  .imag imagenes{
      width: 100%;
 
