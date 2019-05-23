@@ -11,12 +11,12 @@
     <section>
         <h1>The Beatles</h1>
         <div class="imag">
-            <img src="" alt="">
+            <img src="imagenes/1.jpg" alt="" id="imagenes">
         </div>
         <div class="button">
-            <input type="button" value="Anterior">
-            <input type="button" value="Iniciar">
-            <input type="button" value="Siguiente">
+            <input type="button" value="Anterior" onclick="cambiarImagen(0)">
+            <input type="button" id="start" value="Iniciar" onclick="startSlide()">
+            <input type="button" value="Siguiente" onclick="cambiarImagen(1)">
         </div>
     </section>
 </body>
