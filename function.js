@@ -1,4 +1,4 @@
-var cont;
+var cont=0;
 var auth;
 var vec=[];
 
